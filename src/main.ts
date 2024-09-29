@@ -3,6 +3,6 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
 
 import { createApp } from 'vue'
-import Login from './view/Login.vue'
+import Products from './view/Products.vue'
 
-createApp(Login).mount('#app')
+createApp(Products).mount('#app')
